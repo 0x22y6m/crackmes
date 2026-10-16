@@ -2,8 +2,8 @@
 
 ## Stage 1: Beginner (10)
 
-- [ ] 1. [sudo0x18 — Level1 (Difficulty 1.1)](https://crackmes.one/crackme/646627a933c5d439389131d9)
-- [ ] 2. [I3a4dam — Plain sight (Difficulty 1.0)](https://crackmes.one/crackme/6513567328b5870bef263329)
+- [x] 1. [sudo0x18 — Level1 (Difficulty 1.1)](https://crackmes.one/crackme/646627a933c5d439389131d9)
+- [x] 2. [I3a4dam — Plain sight (Difficulty 1.0)](https://crackmes.one/crackme/6513567328b5870bef263329)
 - [ ] 3. [nutcake — PieIsMyFav (Difficulty 1.0)](https://crackmes.one/crackme/5c11e1f333c5d41e58e00579)
 - [ ] 4. [SimbaHDD — very easy crackme (Difficulty 1.0)](https://crackmes.one/crackme/6a1604d22b3df128c1df5cbc)
 - [ ] 5. [kcgaming — very simple keycheck (Difficulty 1.0)](https://crackmes.one/crackme/6a503f2ab1e3022155040e63)
